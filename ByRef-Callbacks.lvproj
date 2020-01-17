@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Base ByRef Ex.vi" Type="VI" URL="../Examples/Base ByRef Ex.vi"/>
+			<Item Name="Callback Ex.vi" Type="VI" URL="../Examples/Callback Ex.vi"/>
 			<Item Name="Do Something Ex.vi" Type="VI" URL="../Examples/Do Something Ex.vi"/>
 			<Item Name="Simple ByRef Ex.vi" Type="VI" URL="../Examples/Simple ByRef Ex.vi"/>
 			<Item Name="Type.ctl" Type="VI" URL="../Examples/Type.ctl"/>
@@ -20,6 +21,8 @@
 		<Item Name="ByRef Base.lvclass" Type="LVClass" URL="../ByRef Base/ByRef Base.lvclass"/>
 		<Item Name="ByRef Example.lvclass" Type="LVClass" URL="../ByRef Example/ByRef Example.lvclass"/>
 		<Item Name="ByRef Mul.lvclass" Type="LVClass" URL="../ByRef Mul/ByRef Mul.lvclass"/>
+		<Item Name="Callback Consumer.lvclass" Type="LVClass" URL="../Callback Consumer/Callback Consumer.lvclass"/>
+		<Item Name="Callback Producer.lvclass" Type="LVClass" URL="../Callback Producer/Callback Producer.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
